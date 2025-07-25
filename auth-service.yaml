@@ -1,0 +1,6 @@
+server:
+  port: 6000
+jwt:
+  secret: secretkey
+  #token:
+  #  validity: '3600000'
