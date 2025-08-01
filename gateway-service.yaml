@@ -7,7 +7,7 @@ eureka:
     fetch-registry: true
     register-with-eureka: true
     service-url:
-      defaultZone: https://eureka-service-apb8.onrender.com/eureka
+      defaultZone: https://eureka-service-apb8.onrender.com
   instance:
     prefer-ip-address: true
     nonSecurePort: 6000
